@@ -66,11 +66,11 @@ My work explores how machines interpret complex, informal, and culturally nuance
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: linkedin.com/in/preye-nabena
+- Email: nabenapreye@gmail.com
 
 ---
 
 ## ⚡ Fun Fact
 
-I design and build AI systems that understand how people *actually* speak — not just how textbooks say they should.
+I design and build AI systems that understand how people *actually* speak - not just how textbooks say they should.
