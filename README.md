@@ -1,47 +1,53 @@
 # 👋 Hi, I'm Preye
 
-🎓 MSc Artificial Intelligence & Machine Learning  
-📍 University of Portsmouth  
-🧠 NLP | LLMs | Human-Centred AI  
+MSc Artificial Intelligence & Machine Learning  
+University of Portsmouth  
+NLP | LLMs | Human-Centred AI  
 
 ---
 
-## 🔍 About Me
+## About Me
 
-I am an AI/ML researcher focused on **Natural Language Processing (NLP)** and **real-world language understanding**.
+I am an AI/ML researcher focused on Natural Language Processing (NLP) and intelligent systems for real-world decision-making.
 
-My work explores how machines interpret complex, informal, and culturally nuanced language across domains such as:
+My work explores how machines interpret language, context, and user intent, and how these signals can be integrated into systems that are interpretable, robust, and human-centred.
 
-- Social media (cyberbullying detection, reviews)
-- Healthcare (clinical text analysis)
-- Industry (oil & gas reports)
-- Multilingual and low-resource language settings
+I am particularly interested in:
+
+- Multimodal AI (text + image + behaviour)
+- Explainable AI systems
+- Context-aware language understanding
+- Human–AI interaction
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Transformer models (DistilBERT, LLMs)
 - Context-aware NLP systems
 - Fairness and bias in NLP models
-- Nigerian language and discourse analysis
-
+- Multimodal retrieval and recommendation systems
+- Hybrid AI systems (semantic + collaborative models)
+- Explainability and evaluation in AI systems
+  
 ---
 
-## 🧪 Featured Projects
+## Featured Projects
+
+### Hybrid Recommender System (Semantic + ALS + Explainability)
+- Integrated semantic retrieval (transformers) with collaborative filtering (ALS)
+- Built hybrid ranking combining relevance and personalization
+- Developed an explanation layer for human-readable recommendations
+- Focus on cold-start robustness and interpretability
+  
+[View Project](https://github.com/Pnabena/Semantic-Retrieval-and-Collaborative-Filtering-for-Explainable-Product-Recommendation-in-E-commerce)
 
 ### 🔹 Cyberbullying Detection (NLP, DL, Transformers)
 - Compared ML, CNN-LSTM, DistilBERT, and TinyLlama
 - Achieved **0.87 F1-score with DistilBERT**
 - Identified fairness issues in multi-class classification
 
-👉 [View Project](https://github.com/YOUR_USERNAME/cyberbullying-detection-ml-dl-llm)
-
----
-
-### 🔹 Nigerian Reviews NLP (Upcoming)
-- LLM-based summarisation of culturally nuanced reviews
-- Focus on Nigerian English and informal language
+[View Project](https://github.com/Pnabena/cyberbullying-detection-ml-dl-llm)
 
 ---
 
@@ -50,15 +56,16 @@ My work explores how machines interpret complex, informal, and culturally nuance
 **Languages:** Python  
 **ML/NLP:** scikit-learn, TensorFlow, HuggingFace  
 **Models:** CNN-LSTM, DistilBERT, LLMs  
-**Tools:** Git, Colab, Jupyter  
+**Systems & Data:** PySpark, ALS, data pipelines
+**Tools:** Git, Colab, Jupyter, Linux  
 
 ---
 
 ## 📊 Research Interests
 
 - Natural Language Processing  
-- Conversational AI  
-- Multilingual NLP  
+- Multimodal AI Systems  
+- Intelligent Decision Support Systems  
 - Human-AI interaction  
 - Explainable AI  
 
@@ -73,4 +80,4 @@ My work explores how machines interpret complex, informal, and culturally nuance
 
 ## ⚡ Fun Fact
 
-I design and build AI systems that understand how people *actually* speak - not just how textbooks say they should.
+I design AI systems that don’t just process language, they understand context, intent, and how people actually communicate.
