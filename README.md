@@ -31,8 +31,8 @@ Designed and evaluated a KGRec-inspired local-business recommender integrating b
 
 The system compares:
 
-- **KGRec-NV** — graph + textual information
-- **KGRec-MM** — graph + textual + visual information
+- **KGRec-NV** - graph + textual information
+- **KGRec-MM** - graph + textual + visual information
 
 **Research scale**
 - 14,991 users
