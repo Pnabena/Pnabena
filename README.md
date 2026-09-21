@@ -1,83 +1,140 @@
-# 👋 Hi, I'm Preye
+# Preye Nabena
 
-MSc Artificial Intelligence & Machine Learning  
-University of Portsmouth  
-NLP | LLMs | Human-Centred AI  
+**Applied AI & Machine Learning Engineer**
 
----
+I build intelligent systems that combine machine learning, data, software engineering and human-centred product thinking to solve real-world problems.
 
-## About Me
+My work spans recommender systems, semantic retrieval, natural language processing, multimodal learning and explainable AI. I also bring over six years of experience designing and delivering digital products, which shapes how I approach AI systems: technically rigorous, understandable and useful to the people who interact with them.
 
-I am an AI/ML researcher focused on Natural Language Processing (NLP) and intelligent systems for real-world decision-making.
-
-My work explores how machines interpret language, context, and user intent, and how these signals can be integrated into systems that are interpretable, robust, and human-centred.
-
-I am particularly interested in:
-
-- Multimodal AI (text + image + behaviour)
-- Explainable AI systems
-- Context-aware language understanding
-- Human–AI interaction
+**MSc Artificial Intelligence & Machine Learning · BSc Statistics · SMAP 2026 Author**
 
 ---
 
 ## Current Focus
 
-- Transformer models (DistilBERT, LLMs)
-- Context-aware NLP systems
-- Fairness and bias in NLP models
-- Multimodal retrieval and recommendation systems
-- Hybrid AI systems (semantic + collaborative models)
-- Explainability and evaluation in AI systems
-  
----
-
-## Featured Projects
-
-### Hybrid Recommender System (Semantic + ALS + Explainability)
-- Integrated semantic retrieval (transformers) with collaborative filtering (ALS)
-- Built hybrid ranking combining relevance and personalization
-- Developed an explanation layer for human-readable recommendations
-- Focus on cold-start robustness and interpretability
-  
-[View Project](https://github.com/Pnabena/Semantic-Retrieval-and-Collaborative-Filtering-for-Explainable-Product-Recommendation-in-E-commerce)
-
-### 🔹 Cyberbullying Detection (NLP, DL, Transformers)
-- Compared ML, CNN-LSTM, DistilBERT, and TinyLlama
-- Achieved **0.87 F1-score with DistilBERT**
-- Identified fairness issues in multi-class classification
-
-[View Project](https://github.com/Pnabena/cyberbullying-detection-ml-dl-llm)
+- Applied Machine Learning
+- Recommender Systems
+- Semantic Search & Retrieval
+- Natural Language Processing
+- Multimodal AI
+- Explainable AI
+- Knowledge-Aware Recommendation
+- AI-enabled Product Systems
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Work
 
-**Languages:** Python  
-**ML/NLP:** scikit-learn, TensorFlow, HuggingFace  
-**Models:** CNN-LSTM, DistilBERT, LLMs  
-**Systems & Data:** PySpark, ALS, data pipelines
-**Tools:** Git, Colab, Jupyter, Linux  
+### Explainable Multimodal Knowledge-Aware Recommender System
+
+Designed and evaluated a KGRec-inspired local-business recommender integrating behavioural interactions, structured knowledge-graph information, review-text embeddings and visual embeddings.
+
+The system compares:
+
+- **KGRec-NV** — graph + textual information
+- **KGRec-MM** — graph + textual + visual information
+
+**Research scale**
+- 14,991 users
+- 2,516 businesses
+- 206,222 knowledge-graph triples
+- BGE-small-en-v1.5 text embeddings
+- CLIP ViT-B/32 visual embeddings
+
+**Key result**
+
+The multimodal configuration improved 8 of 9 reported top-K metrics. At K=20:
+
+- Recall improved by **10.05%**
+- NDCG improved by **6.12%**
+
+The project also includes evidence-grounded explanations and model analysis using structured, textual, visual and behavioural evidence.
+
+[View repository](https://github.com/Pnabena/Knowledge-aware-recommender-system)
 
 ---
 
-## 📊 Research Interests
+### Explainable Hybrid Recommender System
 
-- Natural Language Processing  
-- Multimodal AI Systems  
-- Intelligent Decision Support Systems  
-- Human-AI interaction  
-- Explainable AI  
+Built an e-commerce product recommendation system combining semantic retrieval with collaborative filtering.
+
+The system combines:
+
+- Transformer-based semantic search
+- Spark ALS collaborative filtering
+- Hybrid ranking
+- Human-readable recommendation explanations
+- LLM-assisted explanation refinement
+
+[View live demo](https://semantic-retrieval-and-collaborativ.vercel.app/)
+
+[View repository](https://github.com/Pnabena/Semantic-Retrieval-and-Collaborative-Filtering-for-Explainable-Product-Recommendation-in-E-commerce)
 
 ---
 
-## 📫 Let's Connect
+### Multiclass Cyberbullying Detection with ML & Transformers
 
-- LinkedIn: linkedin.com/in/preye-nabena
-- Email: nabenapreye@gmail.com
+Comparative NLP research evaluating classical machine learning, CNN-LSTM, transformer and language-model approaches for multiclass cyberbullying detection.
+
+**Best-performing model:** DistilBERT  
+**Accuracy / F1:** approximately 0.87
+
+The study also examines class-level performance and limitations in ambiguous cyberbullying categories.
+
+**Accepted for oral presentation and inclusion in the IEEE workshop proceedings at SMAP 2026 — the 21st International Workshop on Smart Media Adaptation, AI & Personalization.**
+
+Authors: Oyinkepreye Nabena, Busiyi Fagbamigbe, Alaa Mohasseb, Andreas Kanavos
+
+[View repository](https://github.com/Pnabena/cyberbullying-detection-ml-dl-llm)
 
 ---
 
-## ⚡ Fun Fact
+## Engineering & Digital Transformation
 
-I design AI systems that don’t just process language, they understand context, intent, and how people actually communicate.
+Alongside my AI research, I work on real-world digital transformation within manufacturing.
+
+At EPS Services & Tooling, my work includes:
+
+- Mapping and digitising manual manufacturing workflows
+- Designing SharePoint data schemas and blade-tracking systems
+- Developing web-based operational applications
+- Working with SQL, Azure, Node.js, Microsoft Graph and PowerShell
+- Translating physical factory processes into maintainable digital systems
+
+This work complements my AI background by strengthening my experience in software systems, databases, cloud integration and production-facing technology.
+
+---
+
+## Technical Stack
+
+**Languages**  
+Python · SQL · JavaScript / TypeScript · R
+
+**Machine Learning & AI**  
+scikit-learn · TensorFlow · Hugging Face Transformers · PyTorch · Spark MLlib · BGE · CLIP
+
+**Data & Big Data**  
+Pandas · NumPy · PySpark · Hadoop · HDFS
+
+**Web & APIs**  
+FastAPI · Next.js · React · Node.js
+
+**Cloud & Systems**  
+Azure SQL · SharePoint · Microsoft Graph · PowerShell · Linux
+
+**Tools**  
+Git · GitHub · Jupyter · VS Code
+
+---
+
+## Research Interests
+
+Recommender Systems · NLP · Multimodal Learning · Semantic Retrieval · Explainable AI · Human-Centred AI
+
+---
+
+## Connect
+
+**LinkedIn:** https://linkedin.com/in/preye-nabena  
+**Portfolio:** https://preye.vercel.app/  
+**Email:** nabenapreye@gmail.com
