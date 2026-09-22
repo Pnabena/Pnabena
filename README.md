@@ -50,6 +50,8 @@ The multimodal configuration improved 8 of 9 reported top-K metrics. At K=20:
 
 The project also includes evidence-grounded explanations and model analysis using structured, textual, visual and behavioural evidence.
 
+[View live demo](https://kgrecdemonstrator.vercel.app/)
+
 [View repository](https://github.com/Pnabena/Knowledge-aware-recommender-system)
 
 ---
