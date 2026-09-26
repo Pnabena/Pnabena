@@ -33,7 +33,9 @@ A knowledge-aware local-business recommendation system combining textual, struct
 
 **Key areas:** Knowledge Graphs · BGE Embeddings · CLIP · Multimodal Recommendation · Explainable AI · Ranking Evaluation · FastAPI · Next.js
 
-[View Repository](YOUR_REPOSITORY_LINK)
+[View live demo](https://kgrecdemonstrator.vercel.app/)
+
+[View repository](https://github.com/Pnabena/Knowledge-aware-recommender-system)
 
 ---
 
@@ -42,7 +44,7 @@ A product-search and recommendation demonstrator combining semantic retrieval an
 
 **Key areas:** Semantic Search · NLP · Recommender Systems · Explainable AI · Ranking · Product Search
 
-[View Repository](YOUR_REPOSITORY_LINK)  
+[View repository](https://github.com/Pnabena/Semantic-Retrieval-and-Collaborative-Filtering-for-Explainable-Product-Recommendation-in-E-commerce)
 [Live Demonstrator](https://semantic-retrieval-and-collaborativ.vercel.app/)
 
 ---
@@ -98,4 +100,5 @@ Figma · Product Strategy · UX Research · Interaction Design · Design Systems
 ## Let's Connect
 
 - [Portfolio](https://preye.vercel.app/)
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn]((https://www.linkedin.com/in/preye-nabena/))
+- [Email] nabenapreye@gmail.com
