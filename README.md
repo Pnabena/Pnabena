@@ -1,142 +1,101 @@
-# Preye Nabena
+# Hi, I'm Preye Nabena
 
-**Applied AI & Machine Learning Engineer**
+**Applied AI & Machine Learning | Intelligent Systems | Product Engineering | Human-Centered AI**
 
-I build intelligent systems that combine machine learning, data, software engineering and human-centred product thinking to solve real-world problems.
+I build intelligent systems that combine machine learning, data, software engineering and human-centered product thinking.
 
-My work spans recommender systems, semantic retrieval, natural language processing, multimodal learning and explainable AI. I also bring over six years of experience designing and delivering digital products, which shapes how I approach AI systems: technically rigorous, understandable and useful to the people who interact with them.
+My background spans Statistics, Product/UI/UX Design and Artificial Intelligence & Machine Learning, giving me experience across both the technical development of intelligent systems and the design of products people can actually understand and use.
 
-**MSc Artificial Intelligence & Machine Learning · BSc Statistics · SMAP 2026 Author**
-
----
-
-## Current Focus
-
-- Applied Machine Learning
-- Recommender Systems
-- Semantic Search & Retrieval
-- Natural Language Processing
-- Multimodal AI
-- Explainable AI
-- Knowledge-Aware Recommendation
-- AI-enabled Product Systems
+My current work focuses on recommender systems, semantic retrieval, explainable AI, NLP, multimodal machine learning and data-driven digital systems.
 
 ---
 
-## Featured Work
+## What I'm working on
+
+### Recommender Systems & Intelligent Search
+Building recommendation and retrieval systems using semantic embeddings, collaborative signals, knowledge graphs and multimodal information.
+
+### Explainable & Human-Centered AI
+Exploring how intelligent systems can make recommendations and predictions more transparent, interpretable and useful to users.
+
+### Applied AI & NLP
+Working with text classification, transformers, embeddings, corpus analysis and machine learning for real-world problems.
+
+### Digital Systems & Product Engineering
+Designing and developing data-backed applications and operational systems using modern frontend, backend and database technologies.
+
+---
+
+## Featured Projects
 
 ### Explainable Multimodal Knowledge-Aware Recommender System
+A knowledge-aware local-business recommendation system combining textual, structured, behavioural and visual information.
 
-Designed and evaluated a KGRec-inspired local-business recommender integrating behavioural interactions, structured knowledge-graph information, review-text embeddings and visual embeddings.
+**Key areas:** Knowledge Graphs · BGE Embeddings · CLIP · Multimodal Recommendation · Explainable AI · Ranking Evaluation · FastAPI · Next.js
 
-The system compares:
-
-- **KGRec-NV** - graph + textual information
-- **KGRec-MM** - graph + textual + visual information
-
-**Research scale**
-- 14,991 users
-- 2,516 businesses
-- 206,222 knowledge-graph triples
-- BGE-small-en-v1.5 text embeddings
-- CLIP ViT-B/32 visual embeddings
-
-**Key result**
-
-The multimodal configuration improved 8 of 9 reported top-K metrics. At K=20:
-
-- Recall improved by **10.05%**
-- NDCG improved by **6.12%**
-
-The project also includes evidence-grounded explanations and model analysis using structured, textual, visual and behavioural evidence.
-
-[View live demo](https://kgrecdemonstrator.vercel.app/)
-
-[View repository](https://github.com/Pnabena/Knowledge-aware-recommender-system)
+[View Repository](YOUR_REPOSITORY_LINK)
 
 ---
 
-### Explainable Hybrid Recommender System
+### Explainable Product Recommendation
+A product-search and recommendation demonstrator combining semantic retrieval and collaborative filtering with transparent recommendation explanations.
 
-Built an e-commerce product recommendation system combining semantic retrieval with collaborative filtering.
+**Key areas:** Semantic Search · NLP · Recommender Systems · Explainable AI · Ranking · Product Search
 
-The system combines:
-
-- Transformer-based semantic search
-- Spark ALS collaborative filtering
-- Hybrid ranking
-- Human-readable recommendation explanations
-- LLM-assisted explanation refinement
-
-[View live demo](https://semantic-retrieval-and-collaborativ.vercel.app/)
-
-[View repository](https://github.com/Pnabena/Semantic-Retrieval-and-Collaborative-Filtering-for-Explainable-Product-Recommendation-in-E-commerce)
+[View Repository](YOUR_REPOSITORY_LINK)  
+[Live Demonstrator](https://semantic-retrieval-and-collaborativ.vercel.app/)
 
 ---
 
-### Multiclass Cyberbullying Detection with ML & Transformers
+### Industrial Workflow Tracking System
+A sanitised full-stack reconstruction of an industrial digital-transformation project, demonstrating workflow digitisation, relational data modelling and operational system development.
 
-Comparative NLP research evaluating classical machine learning, CNN-LSTM, transformer and language-model approaches for multiclass cyberbullying detection.
+**Key areas:** React · Node.js · PostgreSQL · REST APIs · Workflow Modelling · Relational Data · Testing
 
-**Best-performing model:** DistilBERT  
-**Accuracy / F1:** approximately 0.87
-
-The study also examines class-level performance and limitations in ambiguous cyberbullying categories.
-
-**Accepted for oral presentation and inclusion in the IEEE workshop proceedings at SMAP 2026 — the 21st International Workshop on Smart Media Adaptation, AI & Personalization.**
-
-Authors: Oyinkepreye Nabena, Busiyi Fagbamigbe, Alaa Mohasseb, Andreas Kanavos
-
-[View repository](https://github.com/Pnabena/cyberbullying-detection-ml-dl-llm)
+_Public repository coming soon._
 
 ---
 
-## Engineering & Digital Transformation
+## Research & Technical Interests
 
-Alongside my AI research, I work on real-world digital transformation within manufacturing.
-
-At EPS Services & Tooling, my work includes:
-
-- Mapping and digitising manual manufacturing workflows
-- Designing SharePoint data schemas and blade-tracking systems
-- Developing web-based operational applications
-- Working with SQL, Azure, Node.js, Microsoft Graph and PowerShell
-- Translating physical factory processes into maintainable digital systems
-
-This work complements my AI background by strengthening my experience in software systems, databases, cloud integration and production-facing technology.
+- Recommender Systems
+- Natural Language Processing
+- Explainable AI
+- Multimodal Machine Learning
+- Semantic Retrieval
+- Knowledge-Aware AI
+- Human-Centered AI
+- Applied Machine Learning
+- Intelligent Digital Systems
 
 ---
 
-## Technical Stack
+## Technologies
 
-**Languages**  
-Python · SQL · JavaScript / TypeScript · R
+**AI & Data**
 
-**Machine Learning & AI**  
-scikit-learn · TensorFlow · Hugging Face Transformers · PyTorch · Spark MLlib · BGE · CLIP
+Python · pandas · NumPy · scikit-learn · NLP · Transformers · Embeddings · Spark
 
-**Data & Big Data**  
-Pandas · NumPy · PySpark · Hadoop · HDFS
+**Engineering**
 
-**Web & APIs**  
-FastAPI · Next.js · React · Node.js
+FastAPI · Node.js · React · Next.js · TypeScript · PostgreSQL · SQL · REST APIs · Git
 
-**Cloud & Systems**  
-Azure SQL · SharePoint · Microsoft Graph · PowerShell · Linux
+**Product & UX**
 
-**Tools**  
-Git · GitHub · Jupyter · VS Code
+Figma · Product Strategy · UX Research · Interaction Design · Design Systems · Usability Testing
 
 ---
 
-## Research Interests
+## Background
 
-Recommender Systems · NLP · Multimodal Learning · Semantic Retrieval · Explainable AI · Human-Centred AI
+- MSc Artificial Intelligence & Machine Learning, University of Portsmouth
+- BSc Statistics, University of Ilorin
+- 6+ years of experience across Product Design, UI/UX and digital product development
+- Experience working across AI-enabled SaaS, enterprise platforms, fintech, hiring technology and digital transformation
 
 ---
 
-## Connect
+## Let's Connect
 
-**LinkedIn:** https://linkedin.com/in/preye-nabena  
-**Portfolio:** https://preye.vercel.app/  
-**Email:** nabenapreye@gmail.com
+- [Portfolio](https://preye.vercel.app/)
+- [LinkedIn](YOUR_LINKEDIN_URL)
