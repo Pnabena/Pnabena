@@ -101,5 +101,5 @@ Figma · Product Strategy · UX Research · Interaction Design · Design Systems
 ## Let's Connect
 
 - [Portfolio](https://preye.vercel.app/)
-- [LinkedIn]((https://www.linkedin.com/in/preye-nabena/))
-- [Email] nabenapreye@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/preye-nabena/)
+- **Email** nabenapreye@gmail.com
