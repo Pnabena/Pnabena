@@ -45,6 +45,7 @@ A product-search and recommendation demonstrator combining semantic retrieval an
 **Key areas:** Semantic Search · NLP · Recommender Systems · Explainable AI · Ranking · Product Search
 
 [View repository](https://github.com/Pnabena/Semantic-Retrieval-and-Collaborative-Filtering-for-Explainable-Product-Recommendation-in-E-commerce)
+
 [Live Demonstrator](https://semantic-retrieval-and-collaborativ.vercel.app/)
 
 ---
